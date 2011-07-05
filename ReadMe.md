@@ -3,7 +3,7 @@ Pastel is an Xcode 4 colour and font theme, designed for (Objective -)C , origin
 
 ##Installation
 
-To install the theme move it into `~/Library/Xcode/UserData/FontAndColorThemes/` directory, creating any folders you need to along the way.
+To install the theme move it into `~/Library/Xcode/UserData/FontAndColorThemes/`, creating any directories you need to along the way.
 
 At some point, if I ever get round to it, I will create a proper installer. For now though, you will have to move it yourselves.
 
